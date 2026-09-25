@@ -1,0 +1,30 @@
+Power BI Desktop:(Microsoft Product)
+BI= Business Intelligence
+
+Improves decision making
+Fast answers to any business query
+Enables real-time analysis with quick navigation
+Indentify cross-selling & up-selling opportunities
+Reduces the risk of bottlenecks
+Helps you know your business better
+
+External Data Sources<=>Power BI Service(Software as a Service(SaaS))     <=>Access
+                   Power BI Desktop(publish)       Power BI Gateway(Organising Data)
+
+Power Query
+ETL Process(Extract, Transform, Load)
+Data Cleaning
+Data Modeling
+Data Visualization
+
+How to Download:
+Search--->Power BI Desktop--->Select Download Power BI--->Advanced Download--->select 64-bit or both files
+Two types of Download Power BI---->Microsoft Store or Bowser
+
+It will update every month
+
+4 types of usage:
+free
+pro= below 10GB data(particular system)
+premium = 10GB and above(particular system)
+premium capacity = upto 100GB(particular team)
